@@ -4,7 +4,7 @@ This was a personal project that I wrote for a hobby and personal challenge. It 
 
 ### Try it out
 
-There is an executable in the root folder of this project. It is an x64 build of the prime sieve. To try it out, just double click the executable (it defaults to 4 threads, finding all primes between 1 and 1,000,000). To use a custom number of threads or your own limit, run the project from the command prompt in the form "Primes.exe \[threadCound] \[upperLimit]"
+There is an executable in the [root folder](https://github.com/AidanFairman/PrimeSieve) of this project. It is an x64 build of the prime sieve. To try it out, just double click the executable (it defaults to 4 threads, finding all primes between 1 and 1,000,000). To use a custom number of threads or your own limit, run the project from the command prompt in the form "Primes.exe \[threadCound] \[upperLimit]"
 
 ### What is it?
 
