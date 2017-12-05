@@ -1,4 +1,4 @@
-# PrimeSieve
+# Welcome to PrimeSieve
 
 This was a personal project that I wrote for a hobby and personal challenge. It is the third or fourth prime sieve I've written, and is probably the fastest. 
 
