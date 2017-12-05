@@ -14,7 +14,7 @@ This program uses a linked list written specifically for this application. The l
 
 I chose this approach based on the first prime sieve I ever made (for an assignment). Written in java, it used a single iterator that would in-order traverse a sorted binary tree. The problem with this is that candidates were being added almost in order, and there was only one iterator. The binary tree ended up being almost a linked list (without rebalancing) and each thread wasted a lot of time waiting for the iterator to traverse the tree.
 
-The linked list approach in this project destroys the java tree approach, finding the primes from 0-1,000,000 in less than a second, and finding the first million in about 5 seconds (on my machine here at home). The java project took significantly longer, taking 8+ seconds to find the primes from 0 - 1,000,000. 
+The linked list approach in this project destroys the java tree approach, finding the primes from 0-1,000,000 in less than a second, and finding the first million in about 5 seconds (on my machine here at home). The java project took significantly longer, taking 8+ seconds to find the first million primes.
 
 ### The Future
 
